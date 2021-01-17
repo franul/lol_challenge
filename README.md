@@ -9,7 +9,7 @@ To install simply clone github repository with:
 ```
 git clone https://github.com/franul/lol_challenge.git
 ```
-To run program got to repository location, install required packages with:
+To run program go to repository location, install required packages with:
 ```
 pip install -r requirements.txt
 ```
@@ -18,7 +18,7 @@ and run program with:
 python run.py test_data/screen1.jpg
 ```
 
-Here you can see example image with indicated health bars (code can be found in jupyter notebook):
+Here you can see an example image with indicated health bars (code can be found in jupyter notebook):
 <p align="center">
   <img src="example_out.jpg"]>
 </p>
