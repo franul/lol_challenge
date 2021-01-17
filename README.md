@@ -2,7 +2,7 @@
 This is a script made for esportsLABgg League Vision Challenge. 
 Main task was to write a script which takes screenshot from League of Legends and prints out number of visible healthbars belonging to champions only. Only Python language was accepted. For more details go to pdf.
 
-My program uses mainly cv2 edge detection algorithm to detect spaces where healthbars could be. Then I iterate over those spaces to find healthbar matches within given threshold. This solution is not ideal though. There are some cases where bars are hidden behind other bars or some game messages and algorithm doesn't notice them. There is certainly room to improve.
+My program uses mainly cv2 edge detection algorithm to detect spaces where healthbars could be. Then I iterate over those spaces to find healthbar matches within given threshold. This solution is not ideal though. There are some cases where bars are hidden behind other bars or some game messages and algorithm doesn't notice them. There is certainly room for improvement.
 
 ## Installation
 To install simply clone github repository with:
